@@ -250,7 +250,7 @@ body {
     border-radius: 50%;
     overflow: hidden;
     height: 5.5rem;
-    margin-right: 2rem;
+    width: 5.5rem;
     position: relative;
     backface-visibility: hidden; }
     .results__fig::before,
